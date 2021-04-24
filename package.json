@@ -1,0 +1,22 @@
+{
+  "name": "pruebanode",
+  "version": "1.0.0",
+  "description": "Repo de pruebas node",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vic-cross/pruebaNode.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vic-cross/pruebaNode/issues"
+  },
+  "homepage": "https://github.com/vic-cross/pruebaNode#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
